@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "../../Machine Learning"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../esp32_sdcard_audio-main/esp32_sdcard_audio-main"
+	},
+	{
+		"path": "../../BabyCryDetector-master/BabyCryDetector-master"
+	},
+	{
+		"path": "../../BabyReady-master (1)"
+	},
+	{
+		"path": "../../abcd"
+	}
+],
+  "settings": {
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+  }
+}
